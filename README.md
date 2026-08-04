@@ -153,12 +153,13 @@ Credit-Risk-Analysis-using-Machine-Learning/
 │
 ├── 01_SQL_Data_Preparation.sql
 ├── 02_EDA_Model_Building.ipynb
+├── GoodCredit_Final_Dataset.csv
 ├── README.md
 ├── requirements.txt
 └── images/
     ├── target_distribution.png
-    ├── correlation_heatmap.png
-    ├── confusion_matrix_1.png
+    ├── corelation_heatmap.png
+    ├── confusion_matrix.png
     └── rank_ordering.png
 ```
 
