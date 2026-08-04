@@ -104,27 +104,27 @@ The goal of this project was to build a predictive model capable of distinguishi
 
 ## 📷 Project Screenshots
 
-### Target Variable Distribution
+### 🎯 Target Variable Distribution
 
-![Target Distribution](./target_distribution.png)
-
----
-
-### Correlation Heatmap
-
-![Correlation Heatmap](./corelation_heatmap.png)
+![Target Distribution](./images/target_distribution.png)
 
 ---
 
-### Rank Ordering
+### 🔥 Correlation Heatmap
 
-![Rank Ordering](./rank_ordering.png)
+![Correlation Heatmap](./images/corelation_heatmap.png)
 
 ---
 
-### Confusion Matrix
+### 📈 Rank Ordering
 
-![Confusion Matrix](./confusion_matrix.png)
+![Rank Ordering](./images/rank_ordering.png)
+
+---
+
+### ✅ Confusion Matrix
+
+![Confusion Matrix](./images/confusion_matrix.png)
 
 ## 📌 Key Findings
 
